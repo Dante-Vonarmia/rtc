@@ -6,7 +6,7 @@
   "homepage": "https://Dante-Vonarmia.github.io/rtc",
   "scripts": {
     "devStart": "nodemon server.js",
-    "start": "nodemon server.js",
+    "start": "node server.js",
     "deploy": "nodemon server.js"
   },
   "keywords": [],
